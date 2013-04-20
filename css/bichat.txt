@@ -1,0 +1,13 @@
+<div id="container">
+        
+        <header>
+            <h1>Percentage Loader</h1>
+                A tiny jQuery plugin for displaying progress in a visual and engaging way
+          </header>
+        
+        <div id="main-loader-container">
+            <div id="main-loader">
+                
+            </div>
+        </div>
+        

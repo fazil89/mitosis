@@ -1,0 +1,61 @@
+
+
+nav .mainNav {
+	width:563px !important;
+}
+ 
+.caption h2{
+	font-weight:bold !important;
+}
+.contactAddress{
+	height:150px !important;	
+}
+footer .footerNav  li{
+	display:inline;
+	margin:0 0 5px 0px !important;
+	padding:0 2px 0 0px !important;
+	font-size:11px;
+	float:left;
+	width:190px !important;
+}
+footer .footerNav li ul {
+	margin:0px 4px 0 2px !important;
+	display:block;
+	height:135px;
+	width:150px !important;
+}
+footer .footerNav li ul li{
+	padding-left:0px !important;
+}
+.footerNav li p{
+width:169px !important;
+}
+footer .footerNav  li nav ul {
+	border:none;	
+	margin:0px;
+	height:auto;
+}
+footer .footerNav li.last {
+	width:150px !important;
+}
+footer nav .socialNetworks ul{
+	border:solid 1px red;
+}
+footer nav .socialNetworks li{
+	background:none;	
+	padding:0 !important;
+	width:20px !important;
+	margin-right:3px !important;
+}
+.flexslider {
+	min-height:165px !important;
+}
+.flex-direction-nav li {
+	display:inline;
+}
+.flex-control-nav {
+	display:none !important;
+}
+.flex-caption {
+width:97.3% !important;
+}
